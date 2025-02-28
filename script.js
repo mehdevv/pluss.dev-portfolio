@@ -3,7 +3,7 @@ const projects = [
     {
       title: "services portfolio landing page",
       description: "a landing page for a freelancer who wanted to show up his copywriting services online.",
-      image: "./AC.png",
+      image: "img/AC.png",
       technologies: ["HTML", "CSS", "JS"],
       demoUrl: "https://mehdevv.github.io/Adel_copywriter/",
       
@@ -11,9 +11,17 @@ const projects = [
     {
       title: "youcan store for Bejaiastore",
       description: "made a full ecommerce shop for the Bejaia store, including the admin account for them and all utilities they need to satisfy thair clients needs",
-      image: "./BS.png",
+      image: "img/BS.png",
       technologies: ["youcan"],
       demoUrl: "https://bejaia-store.youcan.store/",
+      
+    },
+    {
+      title: "portfolio website for a management consultant",
+      description: "full personalized portfolio and services showcase for a consultant in the field of management and baks",
+      image: "img/ABD.png",
+      technologies: ["HTML", "CSS", "JS", "PHP", "mySQL"],
+      demoUrl: "https://mehdevv.github.io/abdeddaim/",
       
     },
     
@@ -24,7 +32,7 @@ const projects = [
     {
       title: "Youcan & shopify stores",
       description: "we create youcan and shopify shops for your E commerce buisness.",
-      image: "./shops.png",
+      image: "img/shops.png",
       features: [
         "Product management system",
         "Secure payment processing",
@@ -36,7 +44,7 @@ const projects = [
     {
       title: "web designe & landing pages",
       description: "we create well designed pages and websites for your buisness.",
-      image: "./LP.jpg",
+      image: "img/LP.jpg",
       features: [
         "respecting measures of designe",
         "fluidity of the page",
